@@ -31,4 +31,4 @@ jobs:
 
       # Build the project
       - name: Project Build
-        run: dotnet build --configuration Release
+        run: dotnet build --configuration Release
